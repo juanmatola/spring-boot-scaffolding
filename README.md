@@ -13,7 +13,7 @@ This repository provides a scaffolding for a Spring Boot application, using vers
     - `CollectionUtils`: Utility methods for working with collections.
     - `Assert`: Utility methods for validation assertions.
     - `DateUtils`: Utility methods for date and time operations.
-    - 
+
 ### Prerequisites
 
 - Java 17
